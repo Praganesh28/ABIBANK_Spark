@@ -1,2 +1,2 @@
 # ABIBANK_Spark
-Web site fro simple bank site 
+Web site for simple bank site 
